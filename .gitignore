@@ -1,0 +1,5 @@
+.terraform*
+terraform*
+.venv
+out/packages/python*
+*.zip
