@@ -1,0 +1,9 @@
+{
+    "sor_buckets": {
+      "sor_tb1_dow_jones": ["nome_indutor", "nota_esg", "email_report", "telefone", "endereco"],
+      "sor_tb2_msci": ["nome_indutor", "nota_esg", "email_report", "telefone", "endereco", "data_report"]
+    },
+    "sot_bucket": {
+      "sot_tb_consolida": ["nome_indutor", "nota_esg", "email_report", "telefone", "endereco", "data_report"]
+    }
+}
